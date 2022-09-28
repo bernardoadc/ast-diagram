@@ -1,7 +1,7 @@
 {
-  "name": "ast-map",
+  "name": "ast-diagram",
   "version": "0.1.0",
-  "description": "Analyse a js project through a mermaid diagram",
+  "description": "Analyse js projects through mermaid diagrams",
   "main": "index.js",
   "type": "module",
   "bin": {
